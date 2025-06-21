@@ -1,0 +1,130 @@
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color:aquamarine;
+}
+a:hover{
+    color: rgb(93, 106, 117);
+}
+.fooda{
+   
+    width: 250px;
+    height: 400px;
+    
+    border-color: 10px black;
+    display: inline-block;
+   
+}
+.foodb{
+    
+    width: 250px;
+    height: 400px;
+    
+    border-color: 10px black;
+    display: inline-block;
+   
+}
+.foodc{
+    
+    width: 250px;
+    height: 400px;
+    
+    border-color: 10px black;
+    display: inline-block;
+   
+}
+.foodd{
+    
+    width: 250px;
+    height: 400px;
+    border-color: 10px black;
+    display: inline-block;
+   
+}
+.foods{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.cardd1{
+    background-color: rgb(196, 215, 126);
+    color: black;
+    margin-top :10px; 
+    width: 250px;
+    
+    border-color:black 1px;
+     margin-left: 10px;
+     border-radius: 5px;
+    
+}
+.cardd2{
+     background-color: rgb(196, 215, 126);
+    color: black;
+    margin-top :10px; 
+    width: 250px;
+    
+    border-color:black 1px;
+     margin-left: 10px;
+     border-radius: 5px;
+}
+.cardd3{
+    background-color: rgb(196, 215, 126);
+    color: black;
+    margin-top :10px; 
+    width: 250px;
+    
+    border-color:black 1px;
+     margin-left: 10px;
+     border-radius: 5px;
+}
+.cardd4{
+    background-color: rgb(196, 215, 126);
+    color: black;
+    margin-top :10px; 
+    width: 250px;
+    
+    border-color:black 1px;
+     margin-left: 10px;
+     border-radius: 5px;
+}
+.tablee{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.table{
+    text-align: center;
+}
+.cardd1:hover{
+    background-color: rgb(190, 198, 162);
+}
+.cardd2:hover{
+    background-color: rgb(190, 198, 162);
+}
+.cardd3:hover{
+    background-color: rgb(190, 198, 162);
+}
+.cardd4:hover{
+    background-color: rgb(190, 198, 162);
+}
+.btn1:hover{
+    cursor: pointer;
+    background-color: black;
+    color: rgb(198, 166, 128);
+}
+.btn:hover{
+    cursor:pointer;
+    background-color: rgb(14, 9, 2)  ;
+    color: blanchedalmond;
+}
